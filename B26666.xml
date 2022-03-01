@@ -1,0 +1,263 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A brief charactor of the antient Christian Quakers Written by W.M. A witness for the truth, as it was in the begining.</title>
+            <author>Mather, W. (William), fl. 1695.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B26666</idno>
+            <idno type="STC">Wing M1284A</idno>
+            <idno type="EEBO-CITATION">99833096</idno>
+            <idno type="PROQUEST">99833096</idno>
+            <idno type="VID">207861</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B26666)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 207861)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2190:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A brief charactor of the antient Christian Quakers Written by W.M. A witness for the truth, as it was in the begining.</title>
+                  <author>Mather, W. (William), fl. 1695.</author>
+                  <author>Crook, John, 1617-1699.</author>
+               </titleStmt>
+               <extent>[2], 22 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for S. Clarke in George-Yard in Lombard-Street,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>W.C. = William Mather.</note>
+                  <note>Signed at foot of p. 6: By John Crook; Smith -- "It is to be noted, that ... an extract is made to serve the turn from John Crook, ...".</note>
+                  <note>Copy stained; with print show-through.</note>
+                  <note>Reproduction of the original in the Friends' House Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Crook, John, 1617-1699 --  Early works to 1800.</term>
+               <term>Quakers --  Controversial literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:207861:1"/>
+            <pb facs="tcp:207861:1" rendition="simple:additions"/>
+            <p>A Brief CHARACTER OF THE <hi>ANTIENT CHRISTIAN</hi> QUAKERS. <hi>Written by</hi> W. M. <hi>A Witneſs for the</hi> Truth, <hi>as it was in the Begining.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>S. Clarke</hi> in <hi>George-Yard</hi> in <hi>Lombard-Street,</hi> 1695.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:207861:2" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:207861:2"/>
+            <head>A Brief CHARACTOR Of the Antient <hi>CHRISTIAN-Q<g ref="char:V">Ʋ</g>AKERS.</hi>
+            </head>
+            <p>
+               <hi>FIrſt,</hi> In the <hi>North</hi> of <hi>England</hi> there was a few <hi>Religious People,</hi> that could find no Satisfaction to their <hi>Immortal Souls,</hi> amongſt the ſeveral <hi>Will-Worſhipers</hi> [having been amongſt them] Met often together, to wait upon God, with frequent Prayers unto him, That they might attain to that Holyneſs of Life the
+<pb n="2" facs="tcp:207861:3"/>
+               <hi>Saints</hi> Injoyed, Recorded in the <hi>Holy Scriptures;</hi> Crying unto God as did Holy <hi>David, Pſalm.</hi> 42.1. <hi>As the</hi> Hart <hi>panteth after the Water-Brooks, ſo panteth my Soul after thee, O God.</hi>
+            </p>
+            <p>And it pleaſed God to ſatisfie their Thirſting and Breathing Souls, by giving them more <hi>Grace,</hi> which was Purchaſed for us all, by the Suffer<g ref="char:EOLhyphen"/>ings and Death of his dear Son, our Saviour, Chriſt Jeſus, which deſcovered the way of <hi>Truth</hi> unto them, whereby they were enabled to walk in the delightful Path of Righteouſneſs to pleas God, and ſo received power (through the alone help of this Inward and Spiritual Grace) to overcome all the Tempta<g ref="char:EOLhyphen"/>tions of the World, the Fleſh, and the Devil. Yea, the Lord diſcovered unto them ſo much of his Divine Power, and Love, in their Aſſemblies, that their Bodies was made to Trem<g ref="char:EOLhyphen"/>ble,
+<pb n="3" facs="tcp:207861:3"/>as <hi>Moſes, Habakkuk,</hi> &amp;c. at the power of Gods Preſence, which ſome <hi>Rude People</hi> Seeing, called them, in Scorn, <hi>Quakers, Iſa.</hi> 66.5. <hi>Jer.</hi> 33.9.</p>
+            <p n="2">2. About the Year 1653. God ſent ſome of them, to Declare to People, what God had done for their Souls, Declaring ſometimes in <hi>Market-places,</hi> ſometimes in <hi>Steeple-Houſes,</hi> and <hi>Meet<g ref="char:EOLhyphen"/>tings;</hi> and many Thouſands were Converted to the <hi>Truth,</hi> as it is in <hi>Jeſus:</hi> That a worhy Man in the <hi>South,</hi> who was Converted to the Truth, through the power of their Miniſtry, Write a little Book, which he called <hi>The Principles of Truth,</hi> ſaith in <hi>p.</hi> 14.15. <hi>&amp;c. By this Gift of God in our Hearts, we further Believe, That Chriſt Jeſus</hi> Roſe again from the Dead, <hi>according to the Scriptures, and</hi> Sits at Gods Right Hand <hi>in a</hi> Glorious Body; <hi>and we Believe, That our low Eſtate and humble Bodies ſhall be made
+<pb n="4" facs="tcp:207861:4"/>like unto his Glorious Body, through the working of his Mighty Power, whereby he is able to ſubdue all things unto himſelf, and that this Mortality ſhall put on Im<g ref="char:EOLhyphen"/>mortality. For though we Believe that</hi> Chriſt Jeſus <hi>hath</hi> Lighted <hi>every Man with his</hi> Light, <hi>whereby Man may come to know himſelf Loſt and <g ref="char:V">Ʋ</g>ndone, as be<g ref="char:EOLhyphen"/>fore is ſaid, yet therefore is not every Man Saved, though the Grace that ap<g ref="char:EOLhyphen"/>pears to all Men is Sufficient in it ſelf; but ſome have the Grace of God beſtowed upon them in vain, not liking to retain God in their Knowledge, though ſome<g ref="char:EOLhyphen"/>thing within them ſhews them what is Good, but they reject the Councel of God within, or againſt themſelves, to their own Deſtruction,</hi> Luke 7.30. (ſee the Margin) <hi>and yet it doth not follow, that the Grace is Inſufficient of it ſelf, no more than it follows, that Chriſts Death is In<g ref="char:EOLhyphen"/>ſufficient, becauſe he taſted Death for e<g ref="char:EOLhyphen"/>very Man, and yet every Man is not Saved. Neither doth Regeneration, or
+<pb n="5" facs="tcp:207861:4"/>the Believing in the</hi> Light <hi>of</hi> Chriſt within, <hi>make void the</hi> Death <hi>and</hi> Suf<g ref="char:EOLhyphen"/>ferings <hi>of Chriſt without at</hi> Jeruſalem, <hi>no more than Believing the Scripture Teſtimony without, concerning Chriſt</hi>'s <hi>Death, make void the Work of Regenera<g ref="char:EOLhyphen"/>tion and Mortification within; But as the</hi> Apoſtle <hi>ſaith in another Caſe, ſo I ſay in this, For as the Man is not with<g ref="char:EOLhyphen"/>out the Woman, neither is the Woman without the Man in the Lord: Even ſo is not the Death and Sufferings of Chriſt without at</hi> Jeruſalem, <hi>to be made void and of none effect by any thing within, neither doth the</hi> Light <hi>within make that of none effect without, but both in the Lord anſwer his Will: For though there is, and may be, a Knowledge, and Belief, of what Chriſt Did and Suffered without the Gates, in his own Body, upon the Tree, and yet Sin alive in the Heart, and the Work of Regeneration not known, yet it can't be ſo where the</hi> Light <hi>within is be<g ref="char:EOLhyphen"/>lieved on and obeyed, ſo as to have its per<g ref="char:EOLhyphen"/>fect
+<pb n="6" facs="tcp:207861:5"/>Work in the Heart, to Regenerate, and make all things New, and to be of God, this Man can never make void what Chriſt hath done and ſuffered without, and yet this</hi> New-Birth, <hi>or Chriſt formed within, and dwelling in the Heart by Faith, doth not limit or confine Chriſt to be only within, and not without alſo; but both within and without, according to the</hi> Good Pleaſure of the Father <hi>to Re<g ref="char:EOLhyphen"/>veal and make him Known. For he</hi> Fills all things, <hi>and the</hi> Heaven of Heavens cannot Contain him; <hi>and yet he is at</hi> Gods Right Hand, <hi>far above all Heavens, in a Glorious Body.</hi>
+            </p>
+            <closer>
+               <signed>
+                  <hi>By</hi> JOHN CROOK, an Antient Labourer in Chriſts Vineyard, yet on this fide the Grave, to the Joy of many Souls.</signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <pb n="7" facs="tcp:207861:5"/>
+            <head>To which I add, the Poets Verſes.</head>
+            <l>
+               <hi>ETernal Love ought to be our Chief ame,</hi>
+            </l>
+            <l>
+               <hi>Life, in our Saviors Death, we duly clame,</hi>
+            </l>
+            <l>
+               <hi>In his dear Merits, all our hopes muſt be</hi>
+            </l>
+            <l>Zone, <hi>of our Everlaſting Life, is he,</hi>
+            </l>
+            <l>
+               <hi>A Bright</hi> Meridian <hi>of Eternity.</hi>
+            </l>
+            <l>
+               <hi>But how came this great Miſtery to paſs?</hi>
+            </l>
+            <l>
+               <hi>Eternal Wiſdom the prime Author was.</hi>
+            </l>
+            <l>
+               <hi>The thing is deep, and Mortal Minds are loſt,</hi>
+            </l>
+            <l>
+               <hi>Heaven knows alone, what this dear Bleſſing coſt.</hi>
+            </l>
+            <l>
+               <hi>Conſider then, and let us ſtill Adore</hi>
+            </l>
+            <l>
+               <hi>Omnipotence, which our weak Nature bore.</hi>
+            </l>
+            <l>
+               <hi>Compaſſioning us, he lay'd a ſide</hi>
+            </l>
+            <l>
+               <hi>Known Glory, and diſpiſing ſhame, he Dy'd</hi>
+            </l>
+            <l>
+               <hi>Sov'raign o're Death, with Death he yet Comply'd.</hi>
+            </l>
+         </div>
+         <div type="account">
+            <p>But to return, They, for their faith<g ref="char:EOLhyphen"/>ful witneſſing to the <hi>Truth,</hi> Suffered many Stonings, Finings, and Im<g ref="char:EOLhyphen"/>priſonments
+<pb n="8" facs="tcp:207861:6"/>(from Cruel Men) yet God never forſook them, ſo that they Sung Praiſes unto his Holy Name, when in Dungeons.</p>
+            <p n="3">3. Their Meſſage, and Labour, was to turn Peoples Minds to the <hi>Gift,</hi> or <hi>Talent,</hi> of <hi>Light</hi> or <hi>Grace</hi> in their own Souls (the way to Life) that it might be every ones <hi>Chief Teacher,</hi> and <hi>Leader,</hi> into all <hi>Truth, Neh.</hi> 9.20. <hi>John</hi> 1.9. <hi>Tit.</hi> 2.11. 1 <hi>Cor.</hi> 12.7. <hi>Rom.</hi> 1.19. Which cauſed the ſaid <hi>J. C.</hi> to Write, <hi>What unwearied Pains</hi> Truth <hi>made many to take; to run too and fro, to Inform and Fore-warn their Relations and Acquain<g ref="char:EOLhyphen"/>tance, leaſt they ſhould neglect the Day of their Viſitation; and they knowing the</hi> Truth <hi>ſhould be Guilty of their Blood, becauſe they had not fore-warned them, is known to many Witneſſes.</hi> See <hi>Truths Progreſs.</hi>
+            </p>
+            <pb n="9" facs="tcp:207861:6"/>
+            <p n="4">4. They waited upon God in <hi>Silence,</hi> (in all their Meetings) their Minds fixed on Gods Grace; and out of Earthly Thoughts. And none Spake until Gods Spirit Moved any one to Speak. Durſt not Pray or Preach mearly from <hi>Head Knowledge.</hi>
+            </p>
+            <p>
+               <hi>For,</hi> ſayeth the ſaid <hi>J. C. How careful were thoſe that came to Witneſs the</hi> [Truth] <hi>at the begining, to keep</hi> Low <hi>and</hi> Humble, <hi>that they might not be drawn from their</hi> Own Meaſurs, <hi>leaſt their</hi> [Own] <hi>Words ſhould become their Burthen, and they be Condemned in themſelves, for uttering that [as in the Name of God] which came not from the Spirit of the Living God.</hi> And ſaieth <hi>R. Barckley,</hi> in <hi>Page</hi> 453 in his Works, <hi>To Pray and Preach without the Spirit, is an offence to God; not profitable.</hi>
+            </p>
+            <p n="5">5. They Met from Houſe to Houſe, and ſometimes in Orchards, and did
+<pb n="10" facs="tcp:207861:7"/>not limit themſelves to Licenſed Meeting-Houſes; and were for Meet<g ref="char:EOLhyphen"/>ing in a great Town, rather than in a private Village.</p>
+            <p n="6">6. They did not like to Lye a Night in ſuch a place, where the People provided more variety of Food for them, than the Family uſed to do for themſelves being very Temperate. <hi>For Temperance</hi> (ſaith the Wiſe) <hi>Aug<g ref="char:EOLhyphen"/>ments things that are Pleaſant; and ordinary Fare is made equal in Sweetneſs to the greateſt Dainties.</hi>
+            </p>
+            <p n="7">7. They did not concern them<g ref="char:EOLhyphen"/>ſelves in giving in their Names, or Voices, for the Electing of <hi>Parliament Men:</hi> Their Kingdom not being of this World.</p>
+            <p n="8">8. They were come to the Full<g ref="char:EOLhyphen"/>filling of that Scripture Propheſie, <hi>of Learning War no more,</hi> ſo could neither
+<pb n="11" facs="tcp:207861:7"/>Fight with <hi>Carnal Weapons,</hi> nor hire Men to Fight: Truſting only upon God to Deliver them out of the Hands of all Enemies; Yea, Loved their Enemies.</p>
+            <p n="9">9. They were always true to their Words and Promiſes unto all; Yea, when in Priſon, for <hi>Truths ſake,</hi> the Jaylors would ſometimes Truſt us with the Keys of the Priſon (though many Fellons there) having the ſame Confidence in us, as <hi>Pharoah</hi>'s Jaylor had in <hi>Joſeph. For,</hi> ſaith the Wiſe, <hi>He that breaks his Promiſe, forfeits his Faith, (which was the Security) and ſo is become as an Infidel, unto him to whom be Promiſed.</hi>
+            </p>
+            <p n="10">10. They, when caſt into Priſon for good Conſcience ſake, or their Goods taken from them for their Teſtimony, greatly Rejoyced that God had counted them worthy to
+<pb n="12" facs="tcp:207861:8"/>Suffer for his Name, without repining againſt their Perſecutors, nor durſt they ask their Goods again, <hi>Luke</hi> 6.30. nor go to Law to gain them, or uſe Law Tricks to avoid their Suffer<g ref="char:EOLhyphen"/>ing, truſting in God alone for their Deliverance, 2. <hi>Cor.</hi> 12.9.</p>
+            <p n="11">11. They bore a Conſcientious Teſtimony againſt the oppreſſion of <hi>Tyths;</hi> and being caſt into Priſon for the ſame, could not give Money to Lawyers, Jaylors, <hi>&amp;c.</hi> for Liberty, waiting Gods time for Deliverance. Nor could they conſult with Lawyers to ſave their Goods from the Claym<g ref="char:EOLhyphen"/>ers of <hi>Tyths. For in ſo doing,</hi> ſaith <hi>R.B.</hi> page 209, 529. <hi>they loſe the Glory of their Sufferings, by not appearing as the Innocent followers of Chriſt.</hi>
+            </p>
+            <p n="12">12. They durſt not uſe Vain, and Idle Words, Fooliſh Jeſting, nor Wagers, either for Money, or Goods.
+<pb n="13" facs="tcp:207861:8"/>Their Words being few and Savory, <hi>Miniſtering Grace to the Hearers,</hi> Mat. 12.36. Having a Bridle for their Tongue, for <hi>God ſees all our Actions,</hi> Prov. 15.3.</p>
+            <p n="13">13. They gave a good Example, as to plainneſs in Apparel, account<g ref="char:EOLhyphen"/>ing ſuch Profeſſors in Religion <hi>Proud,</hi> that wore Party-Coloured Stuff, or ſuch as was Striped, or Shining, or Flowered; and that wore Long-Scarfs, Silk-Gowns, Curled Periwigs, High Heads, Rich Hats, <hi>or other coſtly Array,</hi> 1 Tim. 9.10. Knowing that ſuch Examples ſtrengthened the Proud Spirit in others, which the Lord is about to bring down. <hi>For Truth,</hi> ſaith <hi>J. C. made many Burn their Pic<g ref="char:EOLhyphen"/>tures, Laces, and other needleſs Attire and Superfluities.</hi>
+            </p>
+            <p n="14">14. They bore a Teſtimony alſo againſt ſuch Profeſſors of the <hi>Truth,</hi>
+               <pb n="14" facs="tcp:207861:9"/>as Delighted in Feaſting at Mar<g ref="char:EOLhyphen"/>riages, <hi>&amp;c.</hi> And that were for Rich Furniture in their Houſes, Cloathing the Walls in them with Stuff, Braſs, Pewter, <hi>&amp;c.</hi> while many poor, honeſt People wanted convenient Cloathing for their Backs. For, if God has given thee abundance, do not caſt how to enlarge thy Barn, Shop, <hi>&amp;c.</hi> but repaire immediately to the Bellies of ſuch as are needy, and oppreſſed with want (to ſuch people I mean, as are Honeſt and in want, and have not Heares to ſeek Relief of the <hi>Pariſh</hi>) and make them the <hi>Store-Houſes</hi> of thine Encreaſe. Whatſoever is given in this kind, is not <hi>Loſt,</hi> but <hi>Lent;</hi> the Lord himſelf will Repay thee an Hundred ſold; ſo as thou gives it not in <hi>Vain Glory,</hi> to be ſeen of Men.</p>
+            <p n="15">15. They durſt not give Flatter<g ref="char:EOLhyphen"/>ing <hi>Titles</hi> unto Men or Women, to their Faces; as <hi>my Lord, your Worſhip,
+<pb n="15" facs="tcp:207861:9"/>Sir, Maſter, or Miſtreſs,</hi> except to ſuch as was really their <hi>Maſters</hi> or <hi>Miſtreſ<g ref="char:EOLhyphen"/>ſes,</hi> nor much Bowing to them, antiently called Worſhip, knowing that it exalted the Proud Spirit in them the more.</p>
+            <p n="16">16. Thoſe of them that were Tradeſmen, having got ſufficient to maintain themſelves, ſtrived not for much Riches, (knowing it to be a Snare) left their Trades, or the moſt part thereof, to the Younger, or their Apprentices. <hi>Not at all</hi> (ſaith <hi>I. C.</hi>) <hi>affecting great things for themſelves, nor to get a Name in the Earth, but to ſtand approved in Gods Sight, which they valu<g ref="char:EOLhyphen"/>ed beyond the judgment of the Wiſe, and the Honourable in the Earth, or of any of the Sons of Men, is alſo fully known to them that were Converted in the beginning.</hi> See alſo Chap. 13. Sect. 7 and 8 in <hi>No Croſs no Crown.</hi>
+            </p>
+            <pb n="16" facs="tcp:207861:10"/>
+            <p n="17">17. They could, in much Love, be<g ref="char:EOLhyphen"/>gin and finiſh all concerns relating to their Society, as to Marriages, Relief of the Poor, Admoniſhing Evil Per<g ref="char:EOLhyphen"/>ſons, end Differences, <hi>&amp;c.</hi> to prevent Suits at Law. At the end of their Religious Meetings (a Religious Meeting being a Church, <hi>Rom.</hi> 16.3, 5. <hi>Col.</hi> 45.) where the leaſt eſteemed of in the Church, had Liberty to Judge, 1 <hi>Cor.</hi> 6.4. <hi>Leaving every Meet<g ref="char:EOLhyphen"/>ing to their own Power.</hi> See <hi>W. P</hi>'s. Rejoynder to <hi>John Faldo.</hi>
+            </p>
+            <p>But of latter times ſome have ſwerv<g ref="char:EOLhyphen"/>ed from the ſaid good Order in the Churches, which cauſed another worthy Man, an Antient Labourer in Chriſts Vine-yard, to give in his Teſtimony (amongſt others) part thereof is as follows, <hi>viz.</hi> 
+               <q rend="inline">We Be<g ref="char:EOLhyphen"/>lieve in his Name <hi>[Chriſt Jeſus]</hi> and he only is our Lord, Lawgiver, and the Shepherd of his Sheep; and they
+<pb n="17" facs="tcp:207861:10"/>hear his Voice, and the Voice of a Stranger, they will not follow.</q>
+            </p>
+            <q>
+               <p>Theſe Sayings are profeſſed by us all, but I find but a few in the prac<g ref="char:EOLhyphen"/>tiſe of them.</p>
+               <p>I might mention the Doctrine and Practiſe of the <hi>Apoſtles,</hi> and a <hi>Cloud of Witneſſes,</hi> both before and ſince, that they neither did Command, nor Compel, Conformity, in matters of Conſcience, relating to Church-Diſ<g ref="char:EOLhyphen"/>cipline, but I ſhall (upon this occaſi<g ref="char:EOLhyphen"/>on, and at this time) rather mention the <hi>Truth,</hi> which we received in the Begining.</p>
+               <p>The breaking forth of it, was very Glorious, after ſo long a <hi>Night of Darkneſs.</hi> Oh! How acceptable was it to my Soul, with many more? It can never be forgotten.</p>
+               <p>How contrary was <hi>Compulſion,</hi> and <hi>Driving</hi> into <hi>Conformity</hi> to it? Even as <hi>Light</hi> is contrary to <hi>Darkneſs.</hi> Oh! How did <hi>Love</hi> and <hi>
+                     <g ref="char:V">Ʋ</g>nity</hi> abound a<g ref="char:EOLhyphen"/>mongſt
+<pb n="18" facs="tcp:207861:11"/>us, that received the <hi>Truth</hi> in the Love of it? Every one ſitting under his own Vine, and Drinking of the <hi>Fountain of Life,</hi> which the Lord hath opened in us; and walk<g ref="char:EOLhyphen"/>ing in that Liberty, wherewith Chriſt had ſet us free.</p>
+               <p>Not a Word of <hi>Conformity,</hi> or <hi>Church-Diſcipline,</hi> for many Years, &amp; then we Loved one another, even as <hi>Chriſt had Loved us,</hi> freely for his <hi>Name ſake;</hi> and went hand in hand together, ſerving the Lord, and one another, and the leaſt breathing that was after God in any.</p>
+               <p>How glad were we to ſee the Faces one of another? And how did our <hi>Harmony</hi> ſound in all our <hi>Meet<g ref="char:EOLhyphen"/>tings,</hi> before <hi>Conformity</hi> was brought in amongſt us; and Cryed up as the only <hi>Mark</hi> of <hi>Chriſtianity?</hi> Without it neither <hi>Hand,</hi> nor <hi>Eye,</hi> unleſs with a Frown; nor Buying, nor Selling, where its Power reacheth.</p>
+               <pb n="19" facs="tcp:207861:11"/>
+               <p>This <hi>Conformity</hi> hath been the cauſe of <hi>Diviſions,</hi> and <hi>Perſecution</hi> in Ages paſt: Firſt <hi>Enforce,</hi> then <hi>Perſe<g ref="char:EOLhyphen"/>cute;</hi> and much Innocent Blood hath been ſhed by it. It had its being in the <hi>Apoſtacy;</hi> and is moſt cry'd up in the thickeſt Darkneſs; begining at the <hi>Pope</hi> to the meaneſt <hi>Profeſſion.</hi>
+               </p>
+               <p>But I did once thing, it could ne<g ref="char:EOLhyphen"/>ver have crept in amongſt us, at leaſt ſo ſoon, being ſomany faithful <hi>Teſti<g ref="char:EOLhyphen"/>monies</hi> againſt it, both in Word and Writing; ſtill freſh in our Remem<g ref="char:EOLhyphen"/>brance. But the Enemy of the Souls of Mankind, is buſie <hi>Now,</hi> as in Ages paſt, with his Subtile Devices, to be<g ref="char:EOLhyphen"/>guile the Souls of the <hi>Simple;</hi> tranſ<g ref="char:EOLhyphen"/>forming himſelf into an <hi>Angel</hi> of <hi>Light;</hi> and putting upon him the fineſt Dreſs, in the pureſt Profeſſion that the Sons of Men can make mention of, to draw away the <hi>Heart</hi> from the Lord, from waiting upon him, for the pureſt
+<pb n="20" facs="tcp:207861:12"/>Stream of Life and Love, into the Puddle of <hi>Conformity,</hi> finding it the eaſieſt way of entrance; having many ſpecious pretences, and fine cover<g ref="char:EOLhyphen"/>ings.</p>
+               <p>Oh! my Heart is grieved for it, &amp; I am often bowed down before my God, becauſe of theſe things; and I am not alone, but there is a little Remnant with me, whoſe <hi>Names</hi> are Written in the Book of Life; and whoſe Garments are Waſhed in the Blood of the <hi>Lamb;</hi> and wears the Seamleſs Coat, that is Woven from the top to the bottom.</p>
+               <p>And theſe things lay upon me to clear my Conſcience, I could not keep ſilent any longer, that I might be clear of the Blood of all Men; having not long to be on the ſtage of this World, I might lay down my <hi>Head</hi> in Peace, as many of my Brethren have done before me; <hi>who finiſhed their courſe with the ſame Teſti<g ref="char:EOLhyphen"/>mony.</hi>
+               </p>
+            </q>
+            <pb n="21" facs="tcp:207861:12"/>
+            <p n="18">18. They did caſt none out of their Religious Society, but ſuch as the World ſaw them to be great Sinners. And if at any time they declared that ſuch Perſons had cut themſelves off from their Society, by often, and wil<g ref="char:EOLhyphen"/>ful Sinning againſt God, yet, not<g ref="char:EOLhyphen"/>withſtanding, did not make it their buſineſs to render them Odious to all People; but in <hi>Chriſtian Love</hi> labour to win them to the <hi>Truth</hi> again, know<g ref="char:EOLhyphen"/>ing there was hopes, while the parties ſaw themſelves to be Sinners.</p>
+            <p>Remembering what our Lord Teacheth us, by his Example (of Charity to Perſons and Churches) in his Epiſtle ſent to the Seven Churches of <hi>Aſia.</hi> The Good that was found in them he approved of, and Encouraged, and reproved only the Evil. He did not over-look the Good in them, be<g ref="char:EOLhyphen"/>cauſe of the Evil, neither did he ap<g ref="char:EOLhyphen"/>prove of the Evil, becauſe of the Good: <hi>But,</hi> ſaith he, <hi>I have ſomewhat againſt thee, Repent,</hi> &amp;c.</p>
+            <pb n="22" facs="tcp:207861:13"/>
+            <p>Let us learn to be like-Minded, leaſt any, by falſe and confuſed Judg<g ref="char:EOLhyphen"/>ment, heap Judgment and Condem<g ref="char:EOLhyphen"/>nation upon their own Heads. Tak<g ref="char:EOLhyphen"/>ing the advice of the ſaid <hi>J. C.</hi> who ſaith, <hi>I Exhort all to come to the Light and Spirit of Chriſt within them, to ſhew unto them their miſcarriages, and whether they hold the Truth, as it was in the be<g ref="char:EOLhyphen"/>gining.</hi>
+            </p>
+            <p>Laſtly, <hi>Let none that are Guilty, think to wipe their Mouths, and ſay,</hi> Theſe things concern not me. <hi>Well, to the Witneſs in thee thou art brought, from whence there is no Appeal; for if that con<g ref="char:EOLhyphen"/>demns thee, God is greater.</hi> See <hi>Truths Propreſs,</hi> pag. 10.</p>
+            <p>Concluding in the Words of <hi>R. B.</hi> p. 683. <hi>That the Evil either in Opinion, or Practiſe, ought neither to be Spared, En<g ref="char:EOLhyphen"/>couraged, nor Fomented, under any pre<g ref="char:EOLhyphen"/>tence of Love whatſoever.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
